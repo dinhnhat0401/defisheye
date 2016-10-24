@@ -21,14 +21,13 @@
 {
     [super viewDidLoad];
   
-    NSURL *sampleURL = [[NSBundle mainBundle] URLForResource:@"9EE93973-DC76-479B-808E-21DD6788DD0D-1197-0000046B36A616C4" withExtension:@"mp4"];
+    NSURL *sampleURL = [[NSBundle mainBundle] URLForResource:@"R0010050_20160823192340" withExtension:@"MP4"];
     
     movieFile = [[GPUImageMovie alloc] initWithURL:sampleURL];
     movieFile.runBenchmark = YES;
     movieFile.playAtActualSpeed = NO;
     filter = [[GPUImageDeFisheye alloc] init];
-//    filter = [[GPUImageUnsharpMaskFilter alloc] init];
-    
+
     [movieFile addTarget:filter];
 
     // Only rotate the video for display, leave orientation the same for recording
