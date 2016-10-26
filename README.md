@@ -13,4 +13,7 @@ https://gist.github.com/dinhnhat0401/12910a5fee2e380051c55e5db752b279
 https://github.com/dinhnhat0401/defisheye/blob/master/framework/Source/GPUImageDeFisheye.h
 https://github.com/dinhnhat0401/defisheye/blob/master/framework/Source/GPUImageDeFisheye.m
 
+### Shader program from 
+https://github.com/yasuhirohoshino/thetaRealtimeEquirectangular
+
 If this helpful , thumbup pls!!
