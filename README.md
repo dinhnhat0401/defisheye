@@ -21,6 +21,10 @@ https://www.youtube.com/watch?v=Ty24agGJwCA
 
 * I will fix the project to make it compatible with latest version of Xcode soon.
 
+#### 2018/08/14
+
+* Updated project to compatible with Xcode 9.4.1
+
 ### Shader program from 
 https://github.com/yasuhirohoshino/thetaRealtimeEquirectangular
 
