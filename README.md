@@ -5,7 +5,7 @@ Convert ricoh theta dual fisheye video to equirectangular format
 
 https://gist.github.com/dinhnhat0401/12910a5fee2e380051c55e5db752b279
 
-### 2016/10/24 UPDATE
+### 2016/10/24
 
 * Full xcode project uploaded.
 
@@ -14,7 +14,7 @@ https://gist.github.com/dinhnhat0401/12910a5fee2e380051c55e5db752b279
   * https://github.com/dinhnhat0401/defisheye/blob/master/framework/Source/GPUImageDeFisheye.h
   * https://github.com/dinhnhat0401/defisheye/blob/master/framework/Source/GPUImageDeFisheye.m
 
-### 2018/06/10 UPDATE
+### 2018/06/10
 
 * Change sample video
 https://www.youtube.com/watch?v=Ty24agGJwCA
